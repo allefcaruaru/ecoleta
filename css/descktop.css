@@ -1,0 +1,13 @@
+body {
+    background-image: url("../imagens/home-background.svg");
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+
+#container{
+    width: 350px;
+}
+
+#conteudo{
+    flex: 0;
+}
